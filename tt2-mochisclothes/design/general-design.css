@@ -1,0 +1,15 @@
+header{
+    background-color: white;
+}
+
+.divgeneral{
+    display: flex;
+}
+
+.ul-general{
+    display: flex ;
+}
+
+body{
+    background-color: bisque;
+}
